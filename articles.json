@@ -17,5 +17,14 @@
     "link": "https://de.wikipedia.org/wiki/Weltkrieg",
     "price": "20,99 $",
     "category": "products"
+  },
+  {
+    "type": "article",
+    "id": "003",
+    "title": "Weltkrieg - Wikipedia",
+    "content": "Despite international efforts to maintain peace and prevent large-scale violence, war remains a recurring event in global history. The motivations behind war are complex, involving power struggles, resource competition, and cultural tensions. While some wars are fought for liberation or justice, others stem from aggression and ambition. Regardless of cause, the aftermath of war often includes long-term trauma, economic hardship, and the need for extensive rebuilding and reconciliation.",
+    "image": "https://de.wikipedia.org/wiki/Datei:Triple_Entente.jpg",
+    "link": "https://de.wikipedia.org/wiki/Weltkrieg",
+    "category": "beauty"
   }
 ]
