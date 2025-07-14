@@ -1,0 +1,16 @@
+[
+  {
+    "id": "001",
+    "title": "Krieg - Wikipedia",
+    "content": "War is a manifestation of conflict on a grand scale, often arising from political, territorial, or ideological disputes between nations or groups. It brings destruction, displacement, and loss of life, affecting not only soldiers but also countless civilians caught in the crossfire. Over centuries, war has shaped borders, rewritten histories, and influenced the evolution of societies, sometimes accelerating technological advancements while simultaneously revealing the darkest sides of humanity.",
+    "image": "https://de.wikipedia.org/wiki/Datei:Morella_(combate-de-arquero.png",
+    "link": "https://de.wikipedia.org/wiki/Krieg"
+  },
+  {
+    "id": "002",
+    "title": "Weltkrieg - Wikipedia",
+    "content": "Despite international efforts to maintain peace and prevent large-scale violence, war remains a recurring event in global history. The motivations behind war are complex, involving power struggles, resource competition, and cultural tensions. While some wars are fought for liberation or justice, others stem from aggression and ambition. Regardless of cause, the aftermath of war often includes long-term trauma, economic hardship, and the need for extensive rebuilding and reconciliation.",
+    "image": "https://de.wikipedia.org/wiki/Datei:Triple_Entente.jpg",
+    "link": "https://de.wikipedia.org/wiki/Weltkrieg"
+  }
+]
